@@ -1,5 +1,5 @@
 {
-  "name": "hapi-router",
+  "name": "hapi-router-es",
   "version": "5.1.0",
   "description": "Opinionated route loader for hapi",
   "main": "./lib",
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git://github.com/bsiddiqui/hapi-router.git"
   },
+  "type": "module",
   "keywords": [
     "hapi",
     "spumko",
@@ -33,6 +34,7 @@
     "@hapi/hapi": ">= 18.3.1 < 20"
   },
   "dependencies": {
+    "bluebird": "^3.7.2",
     "cast-array": "^1.0.0",
     "glob": "^5.0.3"
   }
