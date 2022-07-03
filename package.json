@@ -31,7 +31,7 @@
     "standard": "^12.0.1"
   },
   "peerDependencies": {
-    "@hapi/hapi": ">= 18.3.1 < 20"
+    "@hapi/hapi": ">= 18.3.1 < 21"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
