@@ -1,6 +1,6 @@
 {
   "name": "hapi-router-es",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "Opinionated route loader for hapi",
   "main": "./lib",
   "scripts": {
