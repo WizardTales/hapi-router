@@ -2,7 +2,7 @@
   "name": "hapi-router-es",
   "version": "5.1.2",
   "description": "Opinionated route loader for hapi",
-  "main": "./lib",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "standard && lab -r console -o stdout -r lcov -o lcov.info -v -C -a @hapi/code -m 5000",
     "test-dirty": "lab -v -C -a code -m 5000"
